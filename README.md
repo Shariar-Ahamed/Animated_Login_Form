@@ -14,4 +14,4 @@
 
 ### Links
 
-- Solution URL: (https://shahriartbc.github.io/Animated_Login_Form/)
+- Solution URL: (https://shariar-ahamed.github.io/Animated_Login_Form/)
